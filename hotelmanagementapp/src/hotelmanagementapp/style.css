@@ -1,0 +1,12 @@
+.clicked-button {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+.clicked-button:hover {
+    -fx-background-color: blue;
+}
+
+.clicked-button:pressed {
+    -fx-background-color: red;
+}

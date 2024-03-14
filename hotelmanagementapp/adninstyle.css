@@ -1,0 +1,9 @@
+
+.button {
+    -fx-background-color: blue; /* Green */
+    -fx-text-fill: white;
+}
+
+.scene {
+    -fx-background-color: red; /* Light gray */
+}
